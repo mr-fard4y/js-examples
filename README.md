@@ -1,5 +1,5 @@
 
-{{project_name}}
+Examples based on JS and NodeJS
 
 =========
 
